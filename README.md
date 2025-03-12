@@ -1,3 +1,5 @@
+![中华帝国3](https://github.com/kjx52/kjx52/blob/main/%E4%B8%AD%E5%8D%8E%E5%B8%9D%E5%9B%BD3.png)
+
 # $ whoami
 > Skiner
 
